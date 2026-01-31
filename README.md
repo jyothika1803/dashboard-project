@@ -53,6 +53,14 @@ This project includes:
 
 https://jyothika-hughes-systique-react.onrender.com/
 
+---
+
+## 🔑 Demo Login Credentials
+
+Email: admin@gmail.com  
+Password: admin
+
+---
 
 ## 📂 Project Structure
 
